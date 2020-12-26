@@ -1,7 +1,5 @@
 # Guess The Movie
 
- Mid-course project (done independently) for <i> <a href = "https://in.udacity.com/course/object-oriented-programming-in-java--ud283" title = "Udacity's OOPS in Java"> Udacity's Object Oriented Programming in Java </a> </i> course.
-
 Project Summary
 ---------------
 The goal of the project was to build a simple text game where the player gets to guess the movie name given the number of letters in it (pretty much like hangman but with movies). <br>
@@ -14,18 +12,3 @@ The project is implemented through two classes and one text file:
   <li> <b> <i> Main.java </i> </b> that implements game logic and handles user interaction </li>
   <li> <b> <i> movies.txt </i> </b> that contains the list of movies to be considered for the game </li>
  </ul>
-
-Screenshots
------------
-![Game intro](screenshots/1-gameIntro.PNG "Game intro")
-
-![Game in progress](screenshots/2-gameInProgress.PNG "Game in progress")
-
-![Game won](screenshots/3-gameWon.PNG "Game won")
-
-![Game lost](screenshots/4-gameLost.PNG "Game lost")
-
-## License
-
-The content of this repository is licensed under a
-[GNU General Public License v3.0](LICENSE).
