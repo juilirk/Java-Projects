@@ -1,4 +1,4 @@
-# Java-Projects
+# Core Java-Projects
 
 Following are the core java projects.
    1. Guess the movie
